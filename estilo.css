@@ -6,6 +6,10 @@ text-align:center;
 background-color:purple;
 color:white;
 }
+h2{
+    font-family:'Fredoka One', cursive;
+    color:red;
+}
 body
 {
 background-image:url("fondo.jpg");
